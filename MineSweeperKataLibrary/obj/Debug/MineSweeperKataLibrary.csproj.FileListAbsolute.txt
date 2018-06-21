@@ -1,0 +1,5 @@
+c:\users\plini\source\repos\MineSweeperKata\MineSweeperKataLibrary\bin\Debug\MineSweeperKataLibrary.dll
+c:\users\plini\source\repos\MineSweeperKata\MineSweeperKataLibrary\bin\Debug\MineSweeperKataLibrary.pdb
+c:\users\plini\source\repos\MineSweeperKata\MineSweeperKataLibrary\obj\Debug\MineSweeperKataLibrary.csproj.CoreCompileInputs.cache
+c:\users\plini\source\repos\MineSweeperKata\MineSweeperKataLibrary\obj\Debug\MineSweeperKataLibrary.dll
+c:\users\plini\source\repos\MineSweeperKata\MineSweeperKataLibrary\obj\Debug\MineSweeperKataLibrary.pdb
